@@ -1,4 +1,5 @@
-message = 'Hello'
+message = input()
+
 
 if __name__ == '__main__':
-    it print('Hello')
+    print('Hello')
